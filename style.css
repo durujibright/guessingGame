@@ -1,0 +1,25 @@
+ body{
+            background-color: #000;
+        }
+        #whole{
+            width: 450px;
+            height: 200px;
+            margin: 200px auto ;
+            border: 4px solid blue;
+        }
+        h1{
+            color: #ffff;
+            margin: 30px 40px;
+           text-transform: capitalize;
+
+        }
+        p{
+            color: #ffff;
+            margin: 30px 40px;
+            font-size: 25px;
+
+        }
+        span{
+            color: #1c0fd3;
+             font-size: 25px;
+        }
